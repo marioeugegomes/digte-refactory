@@ -1,4 +1,4 @@
-# Múltiplas Consultas REST
+# DIGTE DP REST
 ---
 
 Esse é um exemplo de uma widget que faz múltiplas requisições ao fluig utilizando OAUTH.
