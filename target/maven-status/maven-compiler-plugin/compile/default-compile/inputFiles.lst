@@ -1,0 +1,16 @@
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/services/WhatsappService.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/domain/Whatsapp.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/domain/FileInfo.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/utils/StreamUtil.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/enums/WhatsappEnum.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/services/DigteDpService.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/factories/whatsapp/IWhatsappIntegration.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/ErrorStatus.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/RestConstant.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/services/OauthService.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/factories/whatsapp/integrations/twillio/TwillioConstant.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/oauth/DigteDpRest.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/factories/whatsapp/WhatsappFactory.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/Activate.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/config/ApplicationConfig.java
+/home/mario/Projects/TEXO/DigteDpf/src/main/java/com/digte/factories/whatsapp/integrations/twillio/TwillioIntegration.java
